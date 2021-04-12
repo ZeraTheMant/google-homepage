@@ -133,6 +133,9 @@ main div {
 
 main {
     padding: 10px 0 50px 0;
+	height: 70vh;
+	display: flex;
+	align-items: center;
 }
 
 #search-buttons-container {
@@ -168,6 +171,8 @@ main {
     
     main {
         padding: 100px 0;
+		display: block;
+		height: 79vh;
     }
     
     #footer-container ul {
